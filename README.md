@@ -6,6 +6,6 @@ var chocolateFreedom = false;
 console.log(rachel);
 
 if(rachel === 'big booty hoe') {
-   var choclateFreedom = true
+   var chocolateFreedom = true
    console.log('get some of that sweet choco freedom');
 }
